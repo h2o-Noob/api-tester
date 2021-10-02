@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav
+{
+    display: flex;
+    border-bottom: 1px solid #d0cccc;
+    box-shadow: 1px 1px 0px #c0b9b9;
+}
+
+.left
+{
+    
+}
+
+.left_items
+{
+    display: flex;
+    list-style: none;
+    margin: 20px;
+}
+
+.left_item
+{
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0px 30px;
+}
+
+.left_item a
+{
+    text-decoration: none;
+    color: rgb(92, 92, 92);
+}
+
+.left_item :hover
+{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 20.1px;
+}
+
+.center
+{
+
+}
+
+.center input
+{
+    margin-top: 20px;
+    font-size: 11px;
+    margin-left: 100px;
+    padding: 3px;
+    size: 20;
+}

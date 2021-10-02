@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main
+{
+    max-width: 55vw;
+    margin: auto;
+    margin-top: 80px;
+}
+
+.code
+{
+    background-color: black;
+    color: white;
+    max-height: 100px;
+    border-radius: 5px;
+    
+}
